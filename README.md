@@ -65,7 +65,7 @@ A beautiful, modern, and minimalistic web-based dictionary application that help
 
 ## 🚀 Live Site
 
-🔗 [https://dictionary-project-xi.vercel.app/](https://dictionary-project-xi.vercel.app/)
+🔗 [https://dictionary-project-xi.vercel.app/](https://lexilearn-sooty.vercel.app/)
 
 ---
 
