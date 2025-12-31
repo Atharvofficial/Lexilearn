@@ -7,6 +7,10 @@
 
 A beautiful, modern, and minimalistic web-based dictionary application that helps users discover and explore English words. Lexilearn combines powerful search functionality with an engaging word discovery experience, featuring random word suggestions and comprehensive definitions with audio pronunciations.
 
+
+https://github.com/user-attachments/assets/4e9f296a-4531-42e2-ae60-3fe5f902412e
+
+
 ---
 
 ## ✨ Features
